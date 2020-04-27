@@ -5,7 +5,6 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - csv
   - ipywidgets
   - bqplot
   - IPython
