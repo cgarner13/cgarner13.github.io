@@ -8,4 +8,4 @@ dependencies:
   - csv
   - ipywidgets
   - bqplot
-  - IPython.core.display
+  - IPython
